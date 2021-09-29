@@ -2,7 +2,7 @@
 
 This app has been deployed on streamlit. To view the app check the link below
 
-https://share.streamlit.io/deepthisudharsan/img2text-translation-dl/main/Img-Text-Translation-Streamlit/img2text_translate.py
+https://share.streamlit.io/kabilan-n/image-text-translation/main/Img-Text-Translation-Streamlit/img2text_translate.py
 
 ## Streamlit web app implementation of the project. 
 
