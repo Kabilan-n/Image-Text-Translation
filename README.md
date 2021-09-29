@@ -4,8 +4,8 @@ This project has been made as a part of TMLC's (The Machine Learning Company's) 
 
 ### Notebooks
 
-text_extraction.ipynb - Translation of text in images to English and replacing original image with translated text
-text_translate.ipynb - Translation of text input to English
+text_extraction.ipynb - Extracting and Translation of text in images to English and replacing original text in the image with translated text
+text_translate.ipynb - Translation of texts in other languages input to English
 
 #### Streamlit GUI for the project can be found in the Img-Text-Translation-Streamlit folder
 
@@ -13,7 +13,6 @@ text_translate.ipynb - Translation of text input to English
 
 This app has been deployed on streamlit. To view the app check the link below
 
-https://share.streamlit.io/deepthisudharsan/img2text-translation-dl/main/Img-Text-Translation-Streamlit/img2text_translate.py
 
 #### Some Snippets from the App
 
